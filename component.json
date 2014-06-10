@@ -1,15 +1,12 @@
 {
   "name": "extend",
-  "repo": "elf/extend",
+  "repo": "scrat-team/extend",
   "description": "Mixin any objects to an object",
   "version": "0.1.0",
   "keywords": ["extend", "mixin"],
   "scripts": ["index.js"],
   "dependencies": {
-    "elf/type": "0.1.0"
+    "scrat-team/type": "0.1.0"
   },
-  "remotes": [
-    "http://git.ucweb.local"
-  ],
   "license": "MIT"
 }
